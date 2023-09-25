@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+  background-color: #333333;
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+.inputContainer:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.quote {
+  color: #ffffff;
+} 
